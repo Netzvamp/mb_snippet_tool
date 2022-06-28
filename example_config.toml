@@ -1,0 +1,6 @@
+# config
+
+url = "https://metabase.mydomain.de"
+username = "theusername"
+password = "thepassword123"
+loglevel = "INFO"  # DEBUG for more details

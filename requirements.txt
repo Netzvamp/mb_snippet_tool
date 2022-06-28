@@ -1,0 +1,4 @@
+# developed with python 3.10
+tomli==2.0.*
+requests==2.*
+pyinstaller==5.1
